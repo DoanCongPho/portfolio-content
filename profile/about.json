@@ -1,0 +1,25 @@
+{
+  "name": "Đoàn Công Pho",
+  "role": "Software Engineer · AI Agent Systems · Saigon",
+  "bio": "Sinh viên Khoa học Máy tính (chương trình tiên tiến) tại VNUHCM — University of Science. Đang xây dựng các hệ thống AI agent, ứng dụng LLM, và pipeline RAG. Mục tiêu: thiết kế các hệ thống thông minh biết suy luận, tra cứu, và hành động một cách tự chủ.",
+  "skills": [
+    "Python",
+    "C++",
+    "Dart",
+    "LangGraph",
+    "FAISS",
+    "Ollama",
+    "OpenAI API",
+    "RAG pipelines",
+    "Flutter",
+    "Django",
+    "Supabase",
+    "Docker"
+  ],
+  "links": {
+    "github": "https://github.com/DoanCongPho",
+    "linkedin": "https://www.linkedin.com/in/doancongpho",
+    "email": "congpho802@gmail.com",
+    "leetcode": "https://leetcode.com/u/DoanCongPho/"
+  }
+}

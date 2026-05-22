@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Workplace NPC Engine — AI Co-Worker Simulation",
+    "description": "LangGraph-based multi-agent pipeline powering hai NPC AI co-worker (CEO và CHRO) với persona riêng, kiểm soát tông giọng động, và hệ thống chấm điểm rapport hai tầng dùng exponential momentum. RAG retrieval pipeline với FAISS + Ollama nomic-embed-text, cosine similarity gating ≥ 0.55 để tránh prompt pollution. Director supervisor agent với 3 tín hiệu detection (semantic loop, progress stall, domain drift) để inject coaching cue.",
+    "tags": ["LangGraph", "FAISS", "Ollama", "Python", "RAG"],
+    "period": "2026-04 → present",
+    "repo": "https://github.com/DoanCongPho/workplace-npc-engine"
+  },
+  {
+    "title": "ScholarPath — AI Scholarship Assistant",
+    "description": "AI assistant tìm học bổng dùng Exa (web search API) và OpenAI để generate query động và refine input. Alumni discovery pipeline retrieve LinkedIn profiles theo tiêu chí người dùng để kết nối mentor. Built at Lotus Hackathon.",
+    "tags": ["OpenAI", "Exa API", "Next.js"],
+    "period": "2026-03",
+    "url": "https://devpost.com/software/scholarpath"
+  },
+  {
+    "title": "Cupid — Dating App",
+    "description": "Project Manager + Backend Developer cho toàn bộ pipeline. RESTful API với matching algorithm, WebSocket cho real-time messaging, Supabase backend. Coordinate sprint planning xuyên backend, frontend, và algorithm team. Viết unit test và test plan đảm bảo độ tin cậy API.",
+    "tags": ["Supabase", "WebSocket", "REST API"],
+    "period": "2025-10 → 2026-01",
+    "repo": "https://github.com/DoanCongPho/cupid"
+  }
+]
