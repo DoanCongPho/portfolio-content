@@ -7,11 +7,11 @@ summary: "Note lại trải nghiệm Lotushacks 2026 (x HackHarvard x GenAI Fund
 
 ![Lotushacks 2026 — venue](https://raw.githubusercontent.com/DoanCongPho/portfolio-content/main/posts/images/lotushacks-2026/SON07529.JPG)
 
-Chào mọi người, đây là lần đầu mình tham gia hackathon — [Lotushacks 2026](https://lotushacks2026.devpost.com/), tổ chức bởi Lotushacks × HackHarvard Undergraduate Hackathon × GenAI Fund. 36 tiếng, một team, một sản phẩm để giải một vấn đề có thật. Post này mình note lại quá trình từ brainstorm tới demo, và quan trọng hơn — những thứ mình học được mà mình nghĩ đáng để chia sẻ với các bạn đang cân nhắc thi.
+Chào mọi người, đây là lần đầu mình tham gia hackathon — [Lotushacks 2026](https://lotushacks2026.devpost.com/), tổ chức bởi Lotushacks × HackHarvard Undergraduate Hackathon × GenAI Fund. Đây có thể là 36 tiếng cuối tuần thiếu ngủ nhất của mình 😵😵. Post này mình note lại quá trình từ brainstorm tới demo, và quan trọng hơn là những gì mình học được vượt lên trên giá trị của những giải thưởng.
 
 ## Hackathon là gì, và vì sao dev nên thi
 
-Hackathon, nói đơn giản, là một cuộc thi mà bạn có một khoảng thời gian rất ngắn — thường 24 đến 48 tiếng — để build ra một sản phẩm hoàn chỉnh (hoặc gần hoàn chỉnh) cùng team. Ban tổ chức cho sẵn một vài **track** (chủ đề lớn — ví dụ edtech, fintech, healthcare, social impact), bạn pick track, brainstorm idea, code, demo, pitch trước ban giám khảo.
+Hackathon, nói đơn giản, là một cuộc thi mà bạn có một khoảng thời gian rất ngắn (thường 24 đến 48 tiếng) để build ra một sản phẩm hoàn chỉnh (hoặc gần hoàn chỉnh) cùng team. Ban tổ chức cho sẵn một vài **track** (chủ đề lớn — ví dụ edtech, fintech, healthcare, social impact), bạn pick track, brainstorm idea, code, demo, pitch trước ban giám khảo.
 
 Với Lotushacks năm nay, vì là giải về AI, ban tổ chức tài trợ credit từ một loạt service: tinyfish, ElevenLabs, Trae, Exa, và đặc biệt là **$100 OpenAI credit cho từng người**. Đến giờ mình vẫn còn credit để xài cho việc học.
 
@@ -58,8 +58,8 @@ Stack chính: Next.js cho frontend, Python cho crawler và pipeline, OpenAI cho 
 Cực thì có cực thật:
 
 - Tranh nhau từng cái gối ngủ.
-- Xếp hàng để được ăn.
-- Thức khuya code, thiếu ngủ, nhìn lung tung.
+- Xếp hàng để lấy từng xuất đồ ăn.
+- Code xuyên đêm, thiếu ngủ.
 
 Nhưng overall, **vui hơn cực rất nhiều**. Pizza ngon, có photobooth, có mấy buổi hội thảo AI xen kẽ giữa các phiên code, được ngồi code xuyên đêm với anh em cùng team, connect với các bạn cùng lĩnh vực. Đây là loại trải nghiệm mà bạn sẽ nhớ rất lâu — không phải vì nó dễ chịu, mà vì nó intense.
 
